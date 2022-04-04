@@ -42,8 +42,7 @@
 
 #root .con > div:nth-child(1) > div:nth-child(2) > ul {
   width: 20vw;
-  height: 40vh;
-  border: 1px solid black;
+  height: 50vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -58,7 +57,7 @@
           flex-direction: column;
   background-color: black;
   color: #fff;
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 #root .con > div:nth-child(1) > div:nth-child(2) > ul > li {
@@ -68,6 +67,6 @@
   list-style-type: none;
   background-color: #c4c4c4;
   color: #575757;
-  padding-top: 10%;
+  margin: auto;
 }
 /*# sourceMappingURL=style.css.map */
